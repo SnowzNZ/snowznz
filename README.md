@@ -5,5 +5,5 @@
 <br>
 <br>
 <br>
-<a href="https://github.com/SnowzNZ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SnowzNZ&repo=Instafader&theme=tokyonight">
+<a href="https://github.com/SnowzNZ/Instafader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SnowzNZ&repo=Instafader&theme=tokyonight">
 </a>
