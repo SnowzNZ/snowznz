@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SnowzNZ&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnowzNZ&border_radius=20&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowzNZ&layout=compact&border_radius=20&theme=tokyonight&hide_border=true)
-
+<p align="center">
+<a href="https://github.com/SnowzNZ"><img src="https://github-readme-stats.vercel.app/api?username=SnowzNZ&card_width=300&border_radius=20&theme=tokyonight&hide_border=true" height="195" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowzNZ&layout=compact&border_radius=17&theme=tokyonight&hide_border=true" height="195" width="50%">
+</a>
+</p>
